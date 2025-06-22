@@ -1,0 +1,3 @@
+﻿  Zadanie3Lab2.cpp
+C:\Users\themr\source\repos\Zadanie3Lab2\Zadanie3Lab2\Zadanie3Lab2.cpp(106,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Zadanie3Lab2.vcxproj -> C:\Users\themr\source\repos\Zadanie3Lab2\x64\Debug\Zadanie3Lab2.exe
